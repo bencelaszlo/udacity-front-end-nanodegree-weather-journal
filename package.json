@@ -4,7 +4,6 @@
   "description": "Udacity Front-End Nanodegree - Weather Journal Project",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "author": "Bence László",
